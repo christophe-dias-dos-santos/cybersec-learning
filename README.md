@@ -23,12 +23,18 @@ Intégrer un BTS SIO SISR en alternance pour développer une expertise solide en
 - Réseaux — TCP/IP, DNS, HTTP, modèle OSI
 - Linux — bases terminal et système de fichiers
 - Cybersécurité — culture générale, premiers concepts
-- Plateforme : TryHackMe (Pre-Security path en cours)
+- Sécurité web — Path Traversal, OWASP Top 10 (introduction)
+- CTF — logique de résolution de challenges
+- Plateformes actives : TryHackMe · CyLab Security Academy · 
+  PortSwigger Web Security Academy · Cisco Packet Tracer
 - Profil TryHackMe : https://tryhackme.com/p/Sorynn
+- Profil Cylab Security Academy : https://learn.cylabacademy.org/users/Sorynn
 
 ## Structure de ce repository
-- carnet-sessions.md — journal de toutes mes sessions d'apprentissage
-- notes/ — mes notes structurées par thème
+- pre-security-tryhackme/ — carnet de sessions et notes TryHackMe
+- ctf/ — progression CyLab Security Academy et write-ups CTF
+- portswigger/ — labs PortSwigger Web Security Academy
+- cisco-packet-tracer/ — progression et labs réseau
 
 ## Progression
 Démarré le 10 mai 2026.
